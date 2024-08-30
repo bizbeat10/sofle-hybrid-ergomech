@@ -51,21 +51,21 @@ layers:
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT GUI
+  - LEFT ALT
+  - LEFT CONTROL
   - {type: held}
+  - ENTER
+  - SPACE
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - A
-  - B
-  - C
-  - D
-  - E
+  - RIGHT CONTROL
+  - RIGHT ALT
+  - RIGHT GUI
+  - ENTER
+  - RIGHT
+  - UP
+  - LEFT
+  - DOWN
   raise:
   - BT CLR
   - {t: BT, h: '0'}
@@ -116,21 +116,21 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - LEFT GUI
+  - LEFT ALT
+  - LEFT CONTROL
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ENTER
+  - SPACE
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - A
-  - B
-  - C
-  - D
-  - E
+  - RIGHT CONTROL
+  - RIGHT ALT
+  - RIGHT GUI
+  - ENTER
+  - RIGHT
+  - UP
+  - LEFT
+  - DOWN
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
